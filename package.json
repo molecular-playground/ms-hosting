@@ -1,0 +1,11 @@
+{
+  "name": "ms-schedule",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server -p 3000"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
