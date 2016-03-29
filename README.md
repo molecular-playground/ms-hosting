@@ -1,2 +1,2 @@
-# ms-molecules
-Microservice to serve static molecule files
+# ms-hosting
+Microservice to serve static files
